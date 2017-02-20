@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 FEB 2017 19:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 FEB 2017 19:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -786,36 +786,36 @@ Package gensymb Info: Using \textmu for \micro on input line 44.
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
-<7segment.png, id=13, 220.825pt x 220.825pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+<7segment.png, id=12, 220.825pt x 220.825pt>
 File: 7segment.png Graphic file (type png)
  <use 7segment.png>
-Package pdftex.def Info: 7segment.png used on input line 91.
+Package pdftex.def Info: 7segment.png used on input line 96.
 (pdftex.def)             Requested size: 172.5pt x 172.50899pt.
  [2 <./7segment.png>] <placeholder.jpg, id=20, 351.3125pt x 193.72375pt>
 File: placeholder.jpg Graphic file (type jpg)
  <use placeholder.jpg>
-Package pdftex.def Info: placeholder.jpg used on input line 141.
+Package pdftex.def Info: placeholder.jpg used on input line 143.
 (pdftex.def)             Requested size: 224.2479pt x 123.66057pt.
 
 
 Package natbib Warning: Citation `Smith:2012qr' on page 3 undefined on input li
-ne 152.
+ne 154.
 
 [3 <./placeholder.jpg>]
 No file lab_report_1.bbl.
@@ -826,11 +826,11 @@ Package natbib Warning: There were undefined citations.
 Here is how much of TeX's memory you used:
  13443 strings out of 493089
  283164 string characters out of 6134842
- 309572 words of memory out of 5000000
+ 310572 words of memory out of 5000000
  16810 multiletter control sequences out of 15000+600000
  14217 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,13n,41p,10440b,810s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,13n,41p,10440b,812s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/c
 m-super/cm-super-ts1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
@@ -845,7 +845,7 @@ msy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
 10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1000
 .pfb>
-Output written on lab_report_1.pdf (4 pages, 162382 bytes).
+Output written on lab_report_1.pdf (4 pages, 162353 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream

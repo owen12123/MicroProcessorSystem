@@ -75,6 +75,11 @@ Micro-Controllers commonly have multiple different sensors to receive analogue d
 
 \section{Problem Statement}
 
+%----------------------------------------------------------------------------------------
+%	SECTION 3
+%----------------------------------------------------------------------------------------
+
+\section{Theory and Hypothesis}
 \subsection{Temperature Calculation}
 The analogue data of sensor is in voltage. Analogue to Digital Converter (ADC) in this experiment uses 12 bit data which gives 4096 different inputs. The sensor can measure temperature between \(-40\, \celsius ~ 125\, \celsius \). Equation (1) was used to calculate temperature in Celsius. Equation (2) was used to convert Celsius data into Fahrenheit.\\
 \begin{equation}
@@ -110,23 +115,9 @@ a&b&c&d&e&f&g&display\\
 \end{tabular}
 \end{center}
 
-%----------------------------------------------------------------------------------------
-%	SECTION 3
-%----------------------------------------------------------------------------------------
 \subsection{Data Filtering}
+FIR filter was used 
 
-\section{Theory and Hypothesis}
-
-\begin{tabular}{ll}
-Mass of magnesium metal & = \SI{8.59}{\gram} - \SI{7.28}{\gram}\\
-& = \SI{1.31}{\gram}\\
-Mass of magnesium oxide & = \SI{9.46}{\gram} - \SI{7.28}{\gram}\\
-& = \SI{2.18}{\gram}\\
-Mass of oxygen & = \SI{2.18}{\gram} - \SI{1.31}{\gram}\\
-& = \SI{0.87}{\gram}
-\end{tabular}
-
-Because of this reaction, the required ratio is the atomic weight of magnesium: \SI{16.00}{\gram} of oxygen as experimental mass of Mg: experimental mass of oxygen or $\frac{x}{1.31}=\frac{16}{0.87}$ from which, $M_{\ce{Mg}} = 16.00 \times \frac{1.31}{0.87} = 24.1 = \SI{24}{\gram\per\mole}$ (to two significant figures).
 
 %----------------------------------------------------------------------------------------
 %	SECTION 4
