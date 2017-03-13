@@ -1,0 +1,12 @@
+xdata = csvread('newData_X.csv');
+ydata = csvread('newData_Y.csv');
+zdata = csvread('newData_Z.csv');
+
+ydata(:,2)=-ydata(:,2);
+
+%each set of data has unforced data in :
+%xdata : y and z unforced
+%ydata : x and z unforced
+%zdata : x and y unforced
+%take the unforced error and average
+ue_x = abs(mean(ydata(:,1))+
